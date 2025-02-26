@@ -1,6 +1,6 @@
 <div align="center">
 
-LXOSDE - Desktop Enviroment
+# LXOSDE - Desktop Enviroment
 
 <div align="center">
 
