@@ -53,7 +53,7 @@
 ### 𝙄𝙣𝙨𝙩𝙖𝙡𝙡𝙖𝙩𝙞𝙤𝙣 🍃
 
 ```
-curl -fsSL https://raw.githubusercontent.com/user7210unix/lxpkg/main/install.sh | bash
+SOON
 ```
 
 
